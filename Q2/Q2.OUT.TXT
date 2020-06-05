@@ -1,0 +1,72 @@
+parts   sets    themes
+~~~~~
+1
+1
+1
+~~~~~
+parts_index   sets_index    themes_index
+~~~~~
+0,id,integer,0,,0
+1,name,text,0,,0
+~~~~~
+count
+39
+~~~~~
+theme,num_sets
+Books,92
+Service Packs,57
+Star Wars,49
+LEGO Brand Store,35
+Bulk Bricks,30
+Fabuland,27
+~~~~~
+theme,percentage
+Books,17.83
+Service Packs,11.05
+Star Wars,9.5
+LEGO Brand Store,6.78
+Bulk Bricks,5.81
+Fabuland,5.23
+~~~~~
+sub_theme,num_sets
+Monthly Mini Model Build,36
+Soccer,30
+4.5V,13
+Power Racers,11
+The LEGO Movie Series II,8
+Series 4 Minifigures,7
+Star Wars Rogue One,7
+Series 5 Minifigures,6
+Series 8 Minifigures,6
+~~~~~
+0,rowid,INTEGER,0,,0
+1,year,integer,0,,0
+2,sets_count,,0,,0
+0
+~~~~~
+year,running_total
+1980,360
+1981,383
+1982,404
+1983,423
+1984,452
+1985,511
+1986,561
+1987,631
+1988,658
+1989,698
+~~~~~
+0,part_num,,0,,0
+1,name,,0,,0
+2,part_cat_id,,0,,0
+3,part_material_id,,0,,0
+~~~~~
+count_overview
+2687
+~~~~~
+total_boy_minidoll
+11
+~~~~~
+total_girl_minidoll
+83
+~~~~~
